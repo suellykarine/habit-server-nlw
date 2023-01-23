@@ -1,6 +1,6 @@
-# server-nlw
+# habit server-NLW Rocketseat
 
-## Api rest Desenvolvida para registro de hábitos pessoais. Projeto fullstack desenvolvido junto ao evento nlw da Rocketseat. Conta com criação, listagem e atualização de hábitos.
+## API REST Desenvolvida para registro e controle de hábitos pessoais. Projeto fullstack desenvolvido junto ao evento nlw da Rocketseat para a aplicação front-end desenvolvida em React, conta com criação, listagem e atualização de hábitos.
 
 ### Tecnologias e ferramentas
 
