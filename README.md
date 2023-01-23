@@ -8,6 +8,6 @@
 - Fastify
 - Prisma
 - TypeScript
+- Sqlite
 - Zod
 - Dayjs
-- Sqlite
